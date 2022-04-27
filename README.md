@@ -1,5 +1,6 @@
 # Project deployment links:
 https://videos-hooks-silk-kappa.vercel.app
+https://tourmaline-taiyaki-5344c3.netlify.app/
 
 # Getting Started with Create React App
 
